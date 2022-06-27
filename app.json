@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expoCamera2",
+    "slug": "expoCamera2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
